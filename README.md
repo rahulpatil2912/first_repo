@@ -1,2 +1,2 @@
 # first_repo
-my fisrt repo
+my first repo
